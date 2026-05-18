@@ -1,0 +1,14 @@
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\bin\Debug\net8.0\GoldHomework.exe
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\bin\Debug\net8.0\GoldHomework.deps.json
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\bin\Debug\net8.0\GoldHomework.runtimeconfig.json
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\bin\Debug\net8.0\GoldHomework.dll
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\bin\Debug\net8.0\GoldHomework.pdb
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.AssemblyInfoInputs.cache
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.AssemblyInfo.cs
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.csproj.CoreCompileInputs.cache
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.dll
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\refint\GoldHomework.dll
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.pdb
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\GoldHomework.genruntimeconfig.cache
+C:\Users\PCuser\source\repos\C#\GoldHomework\GoldHomework\obj\Debug\net8.0\ref\GoldHomework.dll
